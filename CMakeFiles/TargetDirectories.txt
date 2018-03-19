@@ -1,0 +1,3 @@
+/home/paavo/Desktop/Coding/Practice/CMakeFiles/edit_cache.dir
+/home/paavo/Desktop/Coding/Practice/CMakeFiles/rebuild_cache.dir
+/home/paavo/Desktop/Coding/Practice/CMakeFiles/out.dir
